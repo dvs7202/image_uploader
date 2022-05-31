@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow&family=Encode+Sans+SC:wght@100;400;500;600&family=Noto+Serif+Display:ital,wght@0,400;1,300&family=PT+Sans&family=Poppins&family=Quicksand:wght@300&family=Roboto&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.font-poppins {
+  font-family: "Poppins", sans-serif;
+}
+
+.fon-size-09 {
+  font-size: 0.9em;
+}
+
+input:focus {
+  box-shadow: none !important ;
+  outline: none !important;
+}
